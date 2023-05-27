@@ -1,0 +1,14 @@
+.carousel-caption {
+  top: 20%;
+  bottom: unset;
+  transform: unset;
+  background-color: rgba(161, 161, 161, 0.518);
+}
+
+.carousel {
+  height: 30rem;
+}
+
+.carousel-inner {
+  background-color: rgba(99, 99, 99, 0.525);
+}
